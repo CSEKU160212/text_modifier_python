@@ -13,12 +13,16 @@ Output: Convert first column of the excel file and put `<br>` after or before th
 
 
   <h1>Input Excel:</h1><br>
-![Input](https://user-images.githubusercontent.com/23745270/159394635-6af5b2c0-cdd6-4956-8de3-d398869332dc.JPG)
+  
+![Input](https://user-images.githubusercontent.com/23745270/159394828-bcb02a94-6c32-4f95-a216-6e8efbed7313.JPG)
 
 
   
 <h1>Output Excel:</h1><br>
-![Output](https://user-images.githubusercontent.com/23745270/159394649-dea89845-71fc-4ad0-9763-3f628297459f.JPG)
+
+
+![Output](https://user-images.githubusercontent.com/23745270/159394902-371220bb-3941-4262-94d3-ef6b1eb77b1d.JPG)
+
 
 
 <h2>
