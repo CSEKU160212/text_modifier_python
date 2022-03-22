@@ -8,4 +8,6 @@ Output: Convert first column of the excel file and put `<br>` after or before th
 
 <br>
 
+<h2>
 <a href="https://github.com/CSEKU160212/text_modifier_python/raw/main/V3/dist/SentenceFormatter_Excel_File_v3.exe">.exe file link for windows</a>
+</h2>
